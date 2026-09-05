@@ -73,3 +73,17 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# OpenTPS Unreal project - nested project generated files
+OpenTPS/.vs/
+OpenTPS/Binaries/
+OpenTPS/Intermediate/
+OpenTPS/Saved/
+OpenTPS/DerivedDataCache/
+
+# Visual Studio / generated project files
+OpenTPS/*.sln
+OpenTPS/*.slnx
+OpenTPS/*.VC.db
+OpenTPS/*.VC.opendb
+OpenTPS/*.pdb
